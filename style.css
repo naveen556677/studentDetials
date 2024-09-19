@@ -1,0 +1,17 @@
+table{
+	border: 1px solid black;
+	border-collapse: collapse; 
+
+}
+.save{
+	background-color: lightblue;
+}
+.cancel{
+	background-color: red;
+}
+#tbody input{
+	padding: 3%;
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: 500;
+}
